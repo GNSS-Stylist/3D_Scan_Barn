@@ -1,0 +1,218 @@
+<!DOCTYPE MeshLabDocument>
+<MeshLabProject>
+ <MeshGroup>
+  <MLMesh label="BarnInside_211006_1.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/BarnInside_211006_1.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="BarnInside_211006_2.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/BarnInside_211006_2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="BarnInside_211006_2_Clipped.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/BarnInside_211006_2_Clipped.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="BarnScan_210921_1.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/BarnScan_210921_1.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="BarnScan_210921_2.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/BarnScan_210921_2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="BarnScan_210929.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/BarnScan_210929.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="FakeRoof_Left.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/FakeRoof_Left.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="FakeRoof_Right.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/FakeRoof_Right.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="SurfaceReconstPoints_1.ply" visible="0" idInFile="-1" filename="Point_clouds/ply/SurfaceReconstPoints_1.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="SurfaceReconstPoints_2" visible="0" idInFile="-1" filename="Point_clouds/ply/SurfaceReconstPoints_2.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="252 233 79 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001001100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="SurfaceReconstPoints_3" visible="0" idInFile="-1" filename="Point_clouds/ply/SurfaceReconstPoints_3.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="252 233 79 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">000111000000000000000100000001000000001010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="Poisson_ReconstrDepth9_ExcessAndOutliersRemoved.ply" visible="0" idInFile="-1" filename="Objects/Poisson_ReconstrDepth9_ExcessAndOutliersRemoved.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="192 192 192 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="Poisson_ReconstrDepth9_ExcessAndOutliersRemoved_Simplified_500kFaces" visible="0" idInFile="-1" filename="Objects/Poisson_ReconstrDepth9_ExcessAndOutliersRemoved_Simplified_500kFaces.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="255 255 255 255" pointColor="131 149 69 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">100001000000000000000100000001011100000010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+  <MLMesh label="Poisson_ReconstrDepth9_ExcessAndOutliersRemoved_Simplified_500kFaces_Textured.ply" visible="1" idInFile="-1" filename="Objects/Textured/Poisson_ReconstrDepth9_ExcessAndOutliersRemoved_Simplified_500kFaces_Textured.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="255 255 255 255" pointColor="252 233 79 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">100001000000000000000100000001010000010010100000000100111011110000001101</RenderingOption>
+  </MLMesh>
+  <MLMesh label="Textured_Translated_480_129_631_dm" visible="0" idInFile="-1" filename="Objects/Textured_Translated/Barn_Translated_480_129_631_dm.ply">
+   <MLMatrix44>
+1 0 0 0 
+0 1 0 0 
+0 0 1 0 
+0 0 0 1 
+</MLMatrix44>
+   <RenderingOption wireColor="64 64 64 255" solidColor="255 255 255 255" pointColor="252 233 79 255" boxColor="234 234 234 255" wireWidth="1" pointSize="3">100001000000000000000100000001011100010010100000000100111011110000001001</RenderingOption>
+  </MLMesh>
+ </MeshGroup>
+ <RasterGroup>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00922.png" visible="1">
+   <VCGCamera FocalMm="31.175156" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="41.3938 11.1473 52.9049 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.832295 -0.00895299 -0.554261 0 0.0245756 0.999483 0.0207588 0 0.553788 -0.0308987 0.832084 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00922.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00923.png" visible="1">
+   <VCGCamera FocalMm="31.17511" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="46.0993 11.4889 55.0037 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.974815 -0.037801 0.219788 0 0.0406593 0.999137 -0.00849418 0 -0.219277 0.0172167 0.975511 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00923.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00924.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="44.3068 11.8364 56.4223 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.905026 -0.0364319 -0.423792 0 0.0902307 0.990094 0.107577 0 0.415675 -0.135599 0.899348 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00924.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00925.png" visible="1">
+   <VCGCamera FocalMm="31.175167" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="42.018 11.585 58.0812 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.348352 0.0268295 -0.93698 0 -0.00188484 0.999608 0.0279221 0 0.937362 -0.00796067 0.348266 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00925.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00926.png" visible="1">
+   <VCGCamera FocalMm="31.175171" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="42.9571 11.4716 58.4558 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.313951 0.530697 -0.787271 0 0.324341 0.719364 0.614262 0 0.892322 -0.448192 0.0537184 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00926.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00927.png" visible="1">
+   <VCGCamera FocalMm="31.175156" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="45.5933 11.4934 56.7983 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.884879 -0.457503 0.0876347 0 0.300013 0.703648 0.644105 0 -0.356344 -0.543663 0.759901 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00927.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00929.png" visible="1">
+   <VCGCamera FocalMm="31.175131" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="40.7907 11.5812 60.1225 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.830502 0.344221 -0.437925 0 -0.0477958 0.827338 0.559668 0 0.554961 -0.443874 0.703558 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00929.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00931.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="40.8135 11.7389 67.187 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.761752 -0.00481694 -0.647851 0 0.00895545 0.999799 -0.0179637 0 0.647807 -0.0194857 -0.761555 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00931.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00932.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="40.9537 11.7261 67.0851 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.0797043 -0.0185999 -0.996645 0 0.0809561 0.996402 -0.0250696 0 0.993526 -0.0826826 -0.0779118 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00932.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00934.png" visible="1">
+   <VCGCamera FocalMm="31.175167" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="36.3857 11.709 67.9368 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.356663 -0.117844 -0.926771 0 0.0396813 0.989206 -0.141054 0 0.93339 -0.0870844 -0.348137 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00934.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00936.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="49.914 12.0044 70.1992 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.726108 -0.687564 0.00478734 0 -0.615736 0.647123 -0.449556 0 0.306001 -0.329374 -0.893239 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00936.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00937.png" visible="1">
+   <VCGCamera FocalMm="31.175138" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="53.541 12.2993 68.1816 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.295176 0.497669 0.815596 0 -0.290882 0.7663 -0.572863 0 -0.910087 -0.406337 -0.0814301 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00937.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00938.png" visible="1">
+   <VCGCamera FocalMm="31.17515" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="54.3351 11.8949 74.1056 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.849526 -0.0491887 0.525249 0 -0.0755504 0.996725 -0.0288518 0 -0.522109 -0.0641931 -0.85046 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00938.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00939.png" visible="1">
+   <VCGCamera FocalMm="31.175138" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="55.4763 12.2388 66.3091 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="-0.657182 -0.260305 0.707357 0 -0.515202 0.840143 -0.169487 0 -0.550163 -0.475816 -0.686236 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00939.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00941.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="55.4933 11.4264 59.5017 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.727248 0.0602191 0.683728 0 -0.0407022 0.998175 -0.0446209 0 -0.685166 0.00462126 0.728372 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00941.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00942.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="55.3272 11.4567 59.3484 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.0726084 -0.0404656 0.996539 0 -0.0101809 0.999094 0.0413111 0 -0.997309 -0.0131452 0.0721307 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00942.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00944.png" visible="1">
+   <VCGCamera FocalMm="31.175163" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="55.9744 10.9193 58.2368 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.700504 -0.0224522 0.713295 0 -0.0847062 0.989823 0.114344 0 -0.708604 -0.140519 0.691473 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00944.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00945.png" visible="1">
+   <VCGCamera FocalMm="31.175163" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="55.9372 10.8628 58.1941 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.224888 -0.00955131 0.974338 0 0.0175412 0.99983 0.00575251 0 -0.974227 0.0157974 0.225017 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00945.png"/>
+  </MLRaster>
+  <MLRaster label="D:/GNSSStylusData/Temp/Barn210929/Rasters_Alphaed/DSC00948.png" visible="1">
+   <VCGCamera FocalMm="31.175142" LensDistortion="0 0" CameraType="0" PixelSizeMm="0.00891736 0.00891736" TranslationVector="49.0713 11.7671 54.6516 1" BinaryData="0" ViewportPx="4896 3672" CenterPx="2448 1836" RotationMatrix="0.923908 0.373501 -0.083013 0 -0.297883 0.838333 0.456578 0 0.240125 -0.397107 0.885802 0 0 0 0 1 "/>
+   <Plane semantic="1" fileName="Rasters_Alphaed/DSC00948.png"/>
+  </MLRaster>
+ </RasterGroup>
+</MeshLabProject>
